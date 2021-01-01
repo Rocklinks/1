@@ -1,0 +1,128 @@
+body
+{
+	background-color:tan;
+	margin:auto;
+}
+.box
+{
+	margin:auto;
+	width:100%;
+	height:100%;
+	text-align:center;
+}
+
+.catebox
+{
+	margin:auto;
+	width:30%;
+	height:200px;
+	background-color:silver;
+	border:2px solid;
+	margin:5px 10px 5px 10px;
+	float:left;
+}
+
+.catebox img
+{
+	width:90%;
+	height:80%;
+}
+
+.catebox:hover
+{
+	border:2px solid white;
+}
+
+
+#login
+{
+	color:white;
+	float:right;
+	margin-right:30px;
+}
+
+#heading
+{
+	font-size:20pt;
+	font-family:calibri;
+	font-weight:bold;
+	color:red;
+}
+
+a{
+	text-decoration:none;
+}	
+
+
+.productbox
+{
+	margin:auto;
+	width:22%;
+	height:150px;
+	background-color:white;
+	border:2px solid;
+	margin:5px 10px 5px 10px;
+	float:left;
+	text-align:center;
+}
+
+.productbox img
+{
+	height:80%;
+}
+
+
+.productimg{
+	width:45%;
+	float:left;
+	height:50%;
+}
+
+.productimg img
+{
+	height:90%;
+}
+.productdet
+{
+	width:45%;
+	float:right;
+	height:50%;
+	margin-right:30px;
+}
+
+#rate
+{
+	color:red;
+	font-size:32pt;
+	font-weight:bold;
+}
+
+#addtocart
+{
+	width:45%;
+	height:40px;
+	background-color:blue;
+	color:white;
+	line-height:40p;
+	text-align:center;
+	font-size:24pt;
+	font-family:calibri;
+	padding:5px 5px 5px 5px;
+	float:left;
+	margin-right:10px;
+}
+
+#buynow
+{
+	width:45%;
+	height:40px;
+	background-color:darkgreen;
+	color:white;
+	line-height:40p;
+	text-align:center;
+	font-size:24pt;
+	font-family:calibri;
+	padding:5px 5px 5px 5px;
+	float:left;
+	
+}
